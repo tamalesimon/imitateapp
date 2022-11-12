@@ -1,0 +1,12 @@
+.bottom-nav {
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+height: auto;
+background-color: #fff;
+color: rgb(43, 42, 42);
+z-index: 99;
+
+}
+

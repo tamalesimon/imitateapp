@@ -1,0 +1,9 @@
+.teachings-scroll{
+    overflow-y: scroll;
+    /* height:330px; */
+}
+
+.teachings-scroll::-webkit-scrollbar {
+    display: none;
+  }
+  
